@@ -1,0 +1,12 @@
+.forecast {
+  padding: 0 90px;
+}
+.forecast .row {
+  margin-top: 100px;
+}
+.forecast .row .card__item {
+  margin-left: 30px;
+}
+.card__item p {
+  font-size: 16px;
+}
